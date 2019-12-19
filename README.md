@@ -14,3 +14,5 @@ The project folder containing all of the files should be placed under C:\xampp\h
 Running the application:
 Open Xampp and start apache, tomcat, and MySQL
 Open a new browser window and enter: http://localhost/cisc332a2/index.php (cisc332a2 may be different if you're folder name or path from htdocs is different)
+
+![Homepage](https://github.com/Euphoreotic/image/homepage.png)
