@@ -2,7 +2,7 @@
 
 A project for CISC332-Database Management Systems to implement a web applications to handle the logistical details of a mock conference.
 
-This project was developed using HTML, php, CSS, and Javascript, and uses Xampp to host the application using their tools provided (Apache, MySQL, Tomcat).
+This project was developed using HTML, php, CSS, and Javascript, and uses [Xampp](https://www.apachefriends.org/index.html) to host the application using their tools provided (Apache, MySQL, Tomcat).
 
 Database setup:
 Create a new database called "conferencedb" as this is the database that the php files use.
